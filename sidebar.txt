@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[txq:home|Door43 (txq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-txq|d43-txq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-txq/archive/master.zip|d43-txq.zip]]
+
+**Recent Changes**
+{{changes>ns = txq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/txq|Ethnologue data]]
+
